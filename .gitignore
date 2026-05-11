@@ -1,0 +1,19 @@
+# Environment
+.venv/
+Musice/
+__pycache__/
+*.pyc
+
+# Data (download from Kaggle)
+spotify_millsongdata.csv
+
+# Saved models
+*.pkl
+
+# Extra files
+output.png
+bulid.py
+
+# OS
+.DS_Store
+Thumbs.db
